@@ -1,0 +1,6 @@
+{
+  "name": "TuneShift",
+  "description": "Your music. Anywhere. Practical playlist migration, track matching, and CSV import/export across Spotify, YouTube Music, Apple Music, and Deezer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
